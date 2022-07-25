@@ -6,7 +6,7 @@
 Type: percent
 
 # Money-Loss: does not need to be set if Type: is set to "all" or "half"
-Money-Loss: 25
+Money-Loss: 5
 
 # Should the victim lose money if they are not killed by another player
 LoseMoneyNaturally: false
